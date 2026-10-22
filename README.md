@@ -78,8 +78,7 @@ Sales forecasting and customer churn analysis
 
 Harshal Wahatule
 
-GitHub: harshalwahatule-11
+GitHub: https://github.com/harshalwahatule-11
 
-LinkedIn: Harshal Wahatule
-
+LinkedIn: https://www.linkedin.com/in/harshal-wahatule-5881b4255/
 ⭐ If you find this project useful, consider giving the repository a Star!
